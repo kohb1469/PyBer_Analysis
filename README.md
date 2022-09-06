@@ -7,7 +7,7 @@ The purpose of this analysis was to take data from a rideshare company like Lyft
 From Figure 1 and 2 we can see that each city type is typically in its own bracket, excluding a few outliers. For rural PyBer rides, rides tend to be more expensive but have less total rides while for Urban rides, rides tend to be a little cheaper and more abundant. Suburban rides are in the middle spectrum.
 ![DataFrame Summary](analysis/Pyber_fare_summary.png)
 From the DataFrame Summary we can see that that the disparity between City Types is quite apparent, they do not overlap and are in their own brackets.
-![Fig5](analysisFig5.png)
+![Fig5](analysis/Fig5.png)
 ![Fig6](analysis/Fig6.png)
 ![Fig7](analysis/Fig7.png)
 From the pie charts above, it can be seen that PyBer rides are dominated by Urban users. 
